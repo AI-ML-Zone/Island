@@ -1,1 +1,1 @@
-# Island
+# A place for interacting with various Machine learning algorithms 
